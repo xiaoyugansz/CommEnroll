@@ -3,7 +3,7 @@
  - 这是一个以报名为核心的职业学校招生小程序，目的是方便想要系统学习技能，入门某项技能或者领域的初高中毕业生，了解该学校的基本情况及各个专业，并提供报名路径，致力于技能型人才培养。
 - 本程序前后端代码完整，主要功能包括专业介绍，专业选择，资料填报，查看审核结果，学校概况，招生指南，入学须知，就业升学，多彩校园等功能，后台可以创建报名项目，查看和导出名单Excel，审核报名记录等。
 - 本小程序采用腾讯提供的小程序云开发解决方案，无须服务器和域名。可以设定报名的起始时间，是否需要审核，是否可以修改和取消等多项规则
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/111668540/185811544-9f67d8c6-c548-4431-915f-a457416da44c.png)
 
 
 ## 技术运用
@@ -18,12 +18,12 @@
 ## 作者
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
- ![输入图片说明](demo/author-base.png)
+![image](https://user-images.githubusercontent.com/111668540/185811545-218ebe30-0c1d-44c9-8190-3b25a03f4f7b.png)
 
 
 
 ## 演示 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/111668540/185811550-46d8338c-0439-4f2a-ac23-8dcc21b74a0e.png)
  
 
 ## 安装
@@ -32,30 +32,35 @@
 
 
 ## 功能示意图
-![输入图片说明](demo/%E8%81%8C%E4%B8%9A%E5%AD%A6%E6%A0%A1%E6%8B%9B%E7%94%9F%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).gif)
+![image](https://user-images.githubusercontent.com/111668540/185811556-a6fe1c03-bfb8-4bf5-a61f-fac1b97c3315.png)
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
- ![输入图片说明](demo/2%E6%8B%9B%E7%94%9F%E6%8C%87%E5%8D%97.png)
-![输入图片说明](demo/3%E6%8A%A5%E5%90%8D%E5%88%97%E8%A1%A8.png)
-![输入图片说明](demo/4%E6%8A%A5%E5%90%8D%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/5%E6%8A%A5%E5%90%8D%E8%AF%A6%E6%83%85-2.png)
-![输入图片说明](demo/6%E5%A1%AB%E5%86%99%E6%8A%A5%E5%90%8D%E8%B5%84%E6%96%99.png)
-![输入图片说明](demo/7%E5%A4%9A%E5%BD%A9%E6%A0%A1%E5%9B%AD.png)
-![输入图片说明](demo/8%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/9%E6%A0%B8%E5%AF%B9%E6%8A%A5%E5%90%8D%E8%B5%84%E6%96%99.png)
-![输入图片说明](demo/10%E6%8A%A5%E5%90%8D%E6%88%90%E5%8A%9F.png)
+![image](https://user-images.githubusercontent.com/111668540/185811564-6ee7a6fe-e55c-42b3-90a2-6c6a3a4be388.png)
+![image](https://user-images.githubusercontent.com/111668540/185811568-31f61ec4-ce4e-4f95-a008-24f47001f78d.png)
+![image](https://user-images.githubusercontent.com/111668540/185811571-da0ac545-4d7b-4441-ba62-4f8c09561223.png)
+
+![image](https://user-images.githubusercontent.com/111668540/185811573-bfc56d86-314d-4701-9c10-02519201a014.png)
+![image](https://user-images.githubusercontent.com/111668540/185811577-50b8f869-ff51-45e2-a802-3560785dfa7c.png)
+![image](https://user-images.githubusercontent.com/111668540/185811581-bfd67723-976c-4fcd-b48e-2589a5cbc4c7.png)
+![image](https://user-images.githubusercontent.com/111668540/185811584-7b7486df-d12f-4aa3-9e7c-02daaada156e.png)
+![image](https://user-images.githubusercontent.com/111668540/185811586-d8f11ba5-f318-494e-9267-48a0dfecdb63.png)
+![image](https://user-images.githubusercontent.com/111668540/185811588-d311e129-e017-4858-8599-444b5f1b8b93.png)
+![image](https://user-images.githubusercontent.com/111668540/185811593-0a69d727-a353-4d72-b79b-6b2d19ae5861.png)
+
+
+ 
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
+![image](https://user-images.githubusercontent.com/111668540/185811597-377f321a-c8a4-4fa9-b388-b38a8903691c.png)
+![image](https://user-images.githubusercontent.com/111668540/185811599-99661266-7bfe-4df2-81fa-fb2eead2ddfc.png)
+![image](https://user-images.githubusercontent.com/111668540/185811601-6ab0c044-eaac-4057-8274-3e24a5d11949.png)
+![image](https://user-images.githubusercontent.com/111668540/185811605-2637db5f-8b6b-4b68-9dd2-c61b413334c7.png)
+![image](https://user-images.githubusercontent.com/111668540/185811609-5a945686-0f48-459b-b387-5ce86a83a664.png)
 
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0%E6%8A%A5%E5%90%8D%E5%90%8D%E5%8D%95%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%8F%82%E6%95%B0%E8%AE%BE%E5%AE%9A.png)
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%8F%82%E6%95%B0%E8%AE%BE%E5%AE%9A2.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%90%8D%E5%8D%95%E5%AE%A1%E6%A0%B8%E4%B8%8E%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/19%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%90%8D%E5%8D%95%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/5%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E6%9B%B4%E5%A4%9A%E6%93%8D%E4%BD%9C.png)
+ ![image](https://user-images.githubusercontent.com/111668540/185811611-fa1a7c2e-918a-4c2f-9960-c465a55ebaea.png)
+![image](https://user-images.githubusercontent.com/111668540/185811616-2a1bee35-f9f2-4064-99b8-5369ced6bd4d.png)
+![image](https://user-images.githubusercontent.com/111668540/185811618-3dfbe966-9670-40c3-a0f2-ac134fd72c16.png)
+![image](https://user-images.githubusercontent.com/111668540/185811619-34edb998-c24a-46e1-b0fc-9c41e4ca0e8c.png)
+
